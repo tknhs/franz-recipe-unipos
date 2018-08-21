@@ -1,0 +1,17 @@
+{
+  "id": "unipos",
+  "name": "Unipos",
+  "version": "1.0.0",
+  "description": "Unipos",
+  "main": "index.js",
+  "author": "tknhs",
+  "license": "MIT",
+  "repository": "https://github.com/tknhs/franz-recipe-unipos",
+  "config": {
+    "serviceURL": "https://unipos.me/",
+    "hasTeamId": false,
+    "hasCustomUrl": false,
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false
+  }
+}
